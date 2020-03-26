@@ -21,3 +21,4 @@ if is_palindrome(input_text):
     print('Yes, it\'s palindrome!')
 else:
     print('No, it isn\'t palindrome...')
+k
